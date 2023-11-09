@@ -1,7 +1,7 @@
 ---
 title: Local Account to Domain Account Transition Guide
 date: 2023-11-08 23:05:39
-tags:
+tags: system administrator
 ---
 
 To change from using a local account to a domain account (like the one provided with an email-like format), you need to join the computer to the domain represented by the "@jalarue.com" part of the account name. Here's a general process you'd follow, assuming you have the necessary permissions and network access to your company's domain controller.

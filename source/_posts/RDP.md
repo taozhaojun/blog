@@ -1,7 +1,7 @@
 ---
 title: Utiliser Deux Écrans avec le Protocole de Bureau à Distance (RDP)
 date: 2023-11-08 23:54:51
-tags:
+tags: jalarue teletravail
 ---
 
 ## Introduction

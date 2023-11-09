@@ -1,7 +1,7 @@
 ---
 title: Understanding .VBS and .BAT Files
 date: 2023-11-08 23:29:34
-tags:
+tags: coding
 ---
 
 This is a brief comparison of .VBS and .BAT Files

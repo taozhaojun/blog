@@ -1,7 +1,7 @@
 ---
 title: Cloning and Working on Your Hexo Project on a New Computer
 date: 2023-11-09 08:42:51
-tags:
+tags: github
 ---
 
 Transitioning to a new computer and want to continue working on your Hexo blog? No problem! Here's a straightforward guide to get you up and running in no time.
