@@ -1,5 +1,5 @@
 ---
-title: `[[nodiscard]]` in C++
+title: nodiscard in C++
 date: 2023-11-12 19:51:47
 tags: c++
 ---
