@@ -1,7 +1,9 @@
 ---
 title: MVC vs MVVM
 date: 2023-12-18 08:48:29
-tags: MVC, MVVM
+tags: 
+- MVC 
+- MVVM
 ---
 This article explain the difference between mvc and mvvm.
 <!-- more -->
