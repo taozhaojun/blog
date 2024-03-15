@@ -1,10 +1,8 @@
 ---
-title: introduction_machine_learning
+title: Introduction to Machine Learning
 date: 2024-03-15 14:59:05
 tags: AI
 ---
-
-# Introduction to Machine Learning
 
 Machine Learning (ML) is a pivotal subset of artificial intelligence (AI) that empowers systems to autonomously learn and enhance their performance from past experiences, sans explicit programming. It is the art of creating algorithms that parse data, learn from it, and then apply what they've learned to make informed decisions.
 <!-- more -->
